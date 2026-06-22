@@ -510,10 +510,10 @@ export default function App() {
                   </div>
                   <ul className="grid gap-3">
                     {[
-                      "Merancang arsitektur sistem monitoring ketersediaan SCADA otomatis",
-                      "Mendevelop modul Work Order semi-otomatis untuk akselerasi mitigasi",
-                      "Membangun pipeline otomasi data ETL dari CSV SCADA ke MySQL",
-                      "Menganalisis matriks status perangkat untuk validasi data",
+                      "Merancang dan mengembangkan sistem pemantauan SCADA otomatis untuk mempermudah pelacakan pelanggaran SLA dan meningkatkan kecepatan respons.",
+                      "Menerapkan fitur pembuatan Work Order otomatis, yang secara signifikan mengurangi waktu henti dalam penanganan perangkat yang tidak aktif.",
+                      "Merancang proses ETL otomatis untuk mengurai dan memigrasikan data CSV SCADA ke dalam basis data MySQL, sehingga menghilangkan kesalahan pelaporan manual.",
+                      "Melakukan pemantauan ketersediaan sistem dan status perangkat untuk memastikan integritas data yang tinggi demi kepatuhan perusahaan.",
                     ].map((item, i) => (
                       <li key={i} className="flex items-start gap-3">
                         <CheckCircle2

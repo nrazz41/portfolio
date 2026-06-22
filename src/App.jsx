@@ -129,7 +129,7 @@ export default function App() {
             <Terminal size={18} className="text-white" />
           </div>
           <span className="font-bold text-lg tracking-tight text-gray-800">
-            Nur Azizha 
+            Nur Azizha
           </span>
         </div>
 
@@ -505,7 +505,7 @@ export default function App() {
                   </div>
                   <div className="p-4 bg-blue-50 border-l-4 border-blue-600 rounded-r-xl mb-6">
                     <p className="text-gray-700 font-medium">
-                      Project: Rancang Bangun Sistem Monitoring SCADA
+                      Project: Rancang Bangun Sistem Otomatisasi Scada untuk Deteksi Pelanggaran SLA dan Generasi Work Order
                     </p>
                   </div>
                   <ul className="grid gap-3">
